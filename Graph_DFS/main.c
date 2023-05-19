@@ -16,6 +16,6 @@ bool visited[6];
 
 
 int main(int argc, const char * argv[]) {
-    readMatrix();
+    
     return 0;
 }
